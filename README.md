@@ -1,1 +1,3 @@
 # proje
+# nft
+# nft
